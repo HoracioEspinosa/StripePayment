@@ -1,4 +1,4 @@
-#Laravel - Stripe Payment
+# Laravel - Stripe Payment
 ## Steps to install
 * composer install
 * composer update
